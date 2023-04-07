@@ -10,7 +10,7 @@ public class iframes {
 
 	WebDriver driver;
 	@Test
-	public void iframetest()
+	public void iframeteskjkt()
 	{
 		String url="https://practiceseleniumelements.blogspot.com/2021/08/iframes.html";
 		driver=helper.LaunchBrowser(url, driver);
